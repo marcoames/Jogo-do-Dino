@@ -1,0 +1,22 @@
+Proposta Inicial
+    Jogo do Dinossauro Chrome.
+
+Introdução
+    O jogo consiste em um Dinossauro correndo sobre um percurso contendo obstaculos. O Dinossauro
+so tem como pular para desviar dos obstaculos. O jogo mostra quandos pontos foram obtidos desde o
+inicio do jogo.
+
+Roteiro
+    O jogo começa com o Dinossauro parado, apertando um botao o cenario corre para a esquerda com 
+o Dinossauro parado pulando sobre os obstáculos. Uma vez que o um obstáculo é atingido o jogo acaba.
+Um timer é utilizado para contar os pontos baseado nos segundos percorridos onde cada segundo equivale
+a 1 ponto.   
+
+Fim do jogo
+    O jogo acaba quando o Dinossauro atingir um obstáculo, podendo ser reiniciado apertando o botao
+de início. 
+
+Recursos Utilizados
+    Display utilizado para visualizar o jogo.
+    Botao para iniciar e reiniciar o jogo.
+    Botao utilizado para o pulo.        
